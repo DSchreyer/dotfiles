@@ -1,0 +1,224 @@
+[global_config]
+  dbus = False
+  borderless = True
+  extra_styling = False
+  scroll_tabbar = True
+  title_hide_sizetext = True
+  title_transmit_fg_color = "#303030"
+  title_transmit_bg_color = "#5faf5f"
+  title_inactive_fg_color = "#5faf5f"
+  title_inactive_bg_color = "#303030"
+  inactive_color_offset = 0.8375
+  enabled_plugins = CustomCommandsMenu, InactivityWatch, TerminatorThemes, ActivityWatch, LaunchpadCodeURLHandler, APTURLHandler, LaunchpadBugURLHandler
+  suppress_multiple_term_dialog = True
+  title_use_system_font = False
+  title_font = Monospace Bold 12
+[keybindings]
+  layout_launcher = <Alt>w
+[profiles]
+  [[default]]
+    icon_bell = False
+    background_darkness = 0.82
+    background_type = transparent
+    cursor_color = "#aaaaaa"
+    font = Monospace 12
+    foreground_color = "#ffffff"
+    scrollback_lines = 5000
+    use_system_font = False
+    copy_on_selection = True
+  [[Belafonte Night]]
+    background_color = "#20111b"
+    background_darkness = 0.71
+    background_type = transparent
+    cursor_color = "#968c83"
+    font = Monospace 12
+    foreground_color = "#968c83"
+    scrollback_lines = 1000
+    palette = "#20111b:#be100e:#858162:#eaa549:#426a79:#97522c:#989a9c:#968c83:#5e5252:#be100e:#858162:#eaa549:#426a79:#97522c:#989a9c:#d5ccba"
+    use_system_font = False
+    copy_on_selection = True
+  [[Daniel]]
+    background_color = "#fdf6e3"
+    cursor_color = "#aaaaaa"
+    foreground_color = "#657b83"
+  [[Darkside]]
+    background_color = "#222324"
+    background_darkness = 0.71
+    background_type = transparent
+    cursor_color = "#bbbbbb"
+    font = Monospace 12
+    foreground_color = "#bababa"
+    scrollback_lines = 1000
+    palette = "#000000:#e8341c:#68c256:#f2d42c:#1c98e8:#8e69c9:#1c98e8:#bababa:#000000:#e05a4f:#77b869:#efd64b:#387cd3:#957bbe:#3d97e2:#bababa"
+    use_system_font = False
+    copy_on_selection = True
+  [[FrontEndDelight]]
+    background_color = "#1b1c1d"
+    background_darkness = 0.71
+    background_type = transparent
+    cursor_color = "#cdcdcd"
+    font = Monospace 12
+    foreground_color = "#adadad"
+    scrollback_lines = 1000
+    palette = "#242526:#f8511b:#565747:#fa771d:#2c70b7:#f02e4f:#3ca1a6:#adadad:#5fac6d:#f74319:#74ec4c:#fdc325:#3393ca:#e75e4f:#4fbce6:#8c735b"
+    use_system_font = False
+    copy_on_selection = True
+  [[Galaxy]]
+    background_color = "#272822"
+    background_darkness = 0.71
+    background_type = transparent
+    cursor_color = "#ffffff"
+    font = Monospace 12
+    foreground_color = "#f8f8f2"
+    scrollback_lines = 1000
+    palette = "#75715e:#f92672:#a6e22e:#f4bf75:#66d9ef:#ae81ff:#2aa198:#f9f8f5:#272822:#f92672:#a6e22e:#f4bf75:#66d9ef:#ae81ff:#2aa198:#f9f8f5"
+    use_system_font = False
+    copy_on_selection = True
+  [[JetBrains Darcula]]
+    background_color = "#202020"
+    background_darkness = 0.71
+    background_type = transparent
+    cursor_color = "#ffffff"
+    font = Monospace 12
+    foreground_color = "#adadad"
+    scrollback_lines = 1000
+    palette = "#000000:#fa5355:#126e00:#c2c300:#4581eb:#fa54ff:#33c2c1:#adadad:#555555:#fb7172:#67ff4f:#ffff00:#6d9df1:#fb82ff:#60d3d1:#eeeeee"
+    use_system_font = False
+    copy_on_selection = True
+  [[Solarized Dark Higher Contrast]]
+    background_color = "#1d1f21"
+    background_darkness = 0.71
+    background_type = transparent
+    cursor_color = "#c5c8c6"
+    font = Monospace 12
+    foreground_color = "#c5c8c6"
+    scrollback_lines = 1000
+    palette = "#000000:#cc6666:#b5bd68:#f0c674:#81a2be:#b294bb:#8abeb7:#ffffff:#000000:#cc6666:#b5bd68:#f0c674:#81a2be:#b294bb:#8abeb7:#ffffff"
+    use_system_font = False
+    copy_on_selection = True
+  [[Ubuntu]]
+    background_color = "#300a24"
+    background_darkness = 0.71
+    background_type = transparent
+    cursor_color = "#bbbbbb"
+    font = Monospace 12
+    foreground_color = "#eeeeec"
+    scrollback_lines = 1000
+    use_system_font = False
+    copy_on_selection = True
+  [[Violet Dark]]
+    background_color = "#1c1d1f"
+    background_darkness = 0.71
+    background_type = transparent
+    cursor_color = "#708284"
+    font = Monospace 12
+    foreground_color = "#708284"
+    scrollback_lines = 1000
+    palette = "#56595c:#c94c22:#85981c:#b4881d:#2e8bce:#d13a82:#32a198:#c9c6bd:#45484b:#bd3613:#738a04:#a57705:#2176c7:#c61c6f:#259286:#c9c6bd"
+    use_system_font = False
+    copy_on_selection = True
+  [[Zenburn]]
+    background_color = "#3f3f3f"
+    background_darkness = 0.71
+    background_type = transparent
+    cursor_color = "#73635a"
+    font = Monospace 12
+    foreground_color = "#dcdccc"
+    scrollback_lines = 1000
+    palette = "#4d4d4d:#705050:#60b48a:#f0dfaf:#506070:#dc8cc3:#8cd0d3:#dcdccc:#709080:#dca3a3:#c3bf9f:#e0cf9f:#94bff3:#ec93d3:#93e0e3:#ffffff"
+    use_system_font = False
+    copy_on_selection = True
+  [[Default2]]
+    background_darkness = 0.4
+    background_type = transparent
+    cursor_color = "#ffffff"
+    font = Monospace 12
+    foreground_color = "#ffffff"
+    palette = "#000000:#cc0000:#4e9a06:#c4a000:#3465a4:#75507b:#06989a:#d3d7cf:#555753:#ef2929:#8ae234:#fce94f:#729fcf:#ad7fa8:#34e2e2:#eeeeec"
+    use_system_font = False
+  [[New Profile]]
+    cursor_color = "#aaaaaa"
+  [[Monokai dark]]
+    cursor_color = "#aaaaaa"
+  [[Tomorrow Night]]
+    cursor_color = "#aaaaaa"
+  [[Builtin Tango Dark]]
+  [[Solarized Darcula]]
+    background_color = "#3d3f41"
+    background_darkness = 0.71
+    background_type = transparent
+    cursor_color = "#708284"
+    font = Monospace 12
+    foreground_color = "#d2d8d9"
+    scrollback_lines = 1000
+    palette = "#25292a:#f24840:#629655:#b68800:#2075c7:#797fd4:#15968d:#d2d8d9:#25292a:#f24840:#629655:#b68800:#2075c7:#797fd4:#15968d:#d2d8d9"
+    use_system_font = False
+    copy_on_selection = True
+[layouts]
+  [[default]]
+    [[[child0]]]
+      fullscreen = False
+      last_active_term = b9ad0128-5731-4e18-be6f-1d3a111d5d15
+      last_active_window = True
+      maximised = False
+      order = 0
+      parent = ""
+      position = 644:25
+      size = 622, 1041
+      title = daniel@daniel-laptop: ~
+      type = Window
+    [[[terminal1]]]
+      order = 0
+      parent = child0
+      profile = default
+      type = Terminal
+      uuid = b9ad0128-5731-4e18-be6f-1d3a111d5d15
+  [[New Layout]]
+    [[[child0]]]
+      fullscreen = False
+      last_active_term = b9ad0128-5731-4e18-be6f-1d3a111d5d15
+      last_active_window = True
+      maximised = True
+      order = 0
+      parent = ""
+      position = 67:27
+      size = 1853, 1025
+      title = daniel@headnode001:~/projects/project14/alelle_freqs
+      type = Window
+    [[[child1]]]
+      order = 0
+      parent = child0
+      position = 922
+      ratio = 0.498917748918
+      type = HPaned
+    [[[terminal2]]]
+      order = 0
+      parent = child1
+      profile = default
+      type = Terminal
+      uuid = b9ad0128-5731-4e18-be6f-1d3a111d5d15
+    [[[terminal3]]]
+      order = 1
+      parent = child1
+      profile = default
+      type = Terminal
+      uuid = 54127a41-9310-48be-b303-704867e27b04
+  [[New Layout 2]]
+    [[[child0]]]
+      fullscreen = False
+      last_active_term = b9ad0128-5731-4e18-be6f-1d3a111d5d15
+      last_active_window = True
+      maximised = False
+      order = 0
+      parent = ""
+      position = 644:25
+      size = 622, 1041
+      title = daniel@daniel-laptop: ~
+      type = Window
+    [[[terminal1]]]
+      order = 0
+      parent = child0
+      profile = default
+      type = Terminal
+      uuid = b9ad0128-5731-4e18-be6f-1d3a111d5d15
+[plugins]
