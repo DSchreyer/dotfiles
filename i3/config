@@ -234,7 +234,6 @@ bindsym XF86MonBrightnessDown exec xbacklight -dec 5 && pkill -RTMIN+13 i3blocks
 #Bluetooth controls
 # bindsym $mod+b exec ~/.scripts/bt
 
-bindsym $mod+Shift+End exec "i3lock -c 000000"
 
 #exec --no-startup-id nitrogen --restore
 #exec --no-startup-id synergy
@@ -318,4 +317,7 @@ exec --no-startup-id thunderbird
 exec --no-startup-id redshift
 
 # autolock screen after 10 minutes inactivity
-exec_always xautolock -time 15 -locker "i3lock -c 000000" -notify 15 -notifier "notify-send -u critical -t 5000 'Lock screen in 15 seconds'"
+exec_always xautolock -time 15 -locker "/home/daniel/src/i3lock-color/lock_bar.sh" -notify 15 -notifier "notify-send -u critical -t 5000 'Lock screen in 15 seconds'"
+
+bindsym $mod+Shift+End exec /home/daniel/src/i3lock-color/lock_bar.sh
+

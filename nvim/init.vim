@@ -59,7 +59,7 @@ syntax on                   " syntax highlighting
 
 " Key Bindings for faster deletion and yank
 noremap Y y$
-noremap D dd
+" noremap D dd
 
 " set file name in title
 set title

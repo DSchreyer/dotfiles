@@ -1,5 +1,6 @@
 [global_config]
   dbus = False
+  window_state = fullscreen
   borderless = True
   extra_styling = False
   scroll_tabbar = True

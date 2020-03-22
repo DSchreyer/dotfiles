@@ -17,7 +17,7 @@
 # Bookmarks:
 
 # TUI:
-al
+ar
 q0
 v2
 ov
@@ -26,51 +26,6 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/home/daniel/Documents/PhD_Bewerbungen/important
-	img
-1
-d/home/daniel/Documents/PhD_Bewerbungen/important/img
-	Image040320141554-000.jpg
-1
-d/home/daniel/Documents/PhD_Bewerbungen/important
-	img
-1
-d/home/daniel/Documents/PhD_Bewerbungen/important/img
-	Image040320141826-000.jpg
-8
-d/home/daniel/Documents/PhD_Bewerbungen/important
-	BSc_Certificate.pdf
-2
-d/home/daniel/Documents/PhD_Bewerbungen
-	important
-14
-d/home/daniel/Documents/PhD_Bewerbungen/important
-	MSc_Certificate.pdf
-7
-d/home/daniel/Documents/PhD_Bewerbungen
-	important
-14
-d/home/daniel/Documents/PhD_Bewerbungen/important
-	CV_Daniel_Schreyer.docx
-5
-d/home/daniel/Documents/PhD_Bewerbungen
-	CV-ESP-Europass-20200302-Schreyer-EN.pdf
-16
-d/home/daniel/Documents
-	PhD_Bewerbungen
-5
-d/home/daniel
-	Downloads
-3
-d/home/daniel/Downloads
-	Daniel_Schreyer_Inquiry.pdf
-10
-d/home/daniel
-	Documents
-2
-d/home/daniel/Documents
-	Sonstiges
-10
 d/home/daniel/Documents/Sonstiges
 	Bewerbungsbilder
 1
@@ -326,201 +281,54 @@ d/home/daniel/PhD
 d/home/daniel/PhD/Paper
 	Collisson_et_al-2019-Nature_Reviews_Gastroenterology_&_Hepatology.pdf
 2
+d/home/daniel/PhD
+	Paper
+1
+d/home/daniel
+	Downloads
+3
+d/home/daniel/Downloads
+	anyconnect-linux64-4.8.01090
+2
+d/home/daniel/Downloads/anyconnect-linux64-4.8.01090
+	vpn
+4
+d/home/daniel/Downloads/anyconnect-linux64-4.8.01090/vpn
+	acinstallhelper
+7
+d/home/daniel/Downloads/anyconnect-linux64-4.8.01090
+	vpn
+4
+d/home/daniel/Downloads
+	anyconnect-linux64-4.8.01090
+2
+d/home/daniel
+	Documents
+2
+d/home/daniel/Documents
+	Masterarbeit
+3
+d/home/daniel/Documents/Masterarbeit
+	Masterarbeit BackUp
+8
+d/home/daniel/Documents
+	Masterarbeit
+3
+d/home/daniel/Documents/Masterarbeit
+	Masterarbeit BackUp
+8
+d/home/daniel/Documents/Masterarbeit/Masterarbeit BackUp
+	..
+0
+d/home/daniel/Documents/Masterarbeit
+	Masterarbeit BackUp
+8
+d/home/daniel/Documents
+	Masterarbeit
+3
 d
 
 # Right window history (oldest to newest):
-D/home/daniel/PhD/Preparation
-	pictures
-1
-D/home/daniel/PhD
-	Preparation
-1
-D/home/daniel
-	Documents
-2
-D/home/daniel/Documents
-	Python_Scripts
-7
-D/home/daniel/Documents/Python_Scripts
-	change_wallpaper
-2
-D/home/daniel/Documents/Python_Scripts/change_wallpaper
-	wallpapers
-5
-D/home/daniel/Documents/Python_Scripts/change_wallpaper/wallpapers
-	toes over Times Square - andre benz, unsplash [6720 X 3780].jpg
-49
-D/home/daniel/Documents/Python_Scripts/change_wallpaper
-	wallpapers
-5
-D/home/daniel/Documents/Python_Scripts
-	change_wallpaper
-2
-D/home/daniel/Documents
-	Python_Scripts
-7
-D/home/daniel
-	Downloads
-3
-D/home/daniel/Downloads
-	WhatsApp Image 2020-03-02 at 10.11.44.jpeg
-8
-D/home/daniel
-	Downloads
-3
-D/home/daniel/Downloads
-	libnotify-0.7.8
-4
-D/home/daniel
-	Downloads
-3
-D/home/daniel/Downloads
-	CV-ESP-Europass-20200303-Schreyer-EN.pdf
-7
-D/home/daniel
-	Downloads
-3
-D/home/daniel/Downloads
-	CV-ESP-Europass-20200303-Schreyer-EN.pdf
-7
-D/home/daniel
-	Downloads
-3
-D/home
-	daniel
-1
-D/home/daniel
-	Downloads
-3
-D/home/daniel/Downloads
-	MSc_Lists-of-examination_Daniel-Schreyer.pdf
-9
-D/home/daniel
-	Documents
-2
-D/home/daniel/Documents
-	Python_Scripts
-7
-D/home/daniel/Documents/Python_Scripts
-	change_wallpaper
-2
-D/home/daniel/Documents
-	Python_course
-8
-D/home/daniel/Documents/Python_course
-	AI
-1
-D/home/daniel/Documents
-	PhD_Bewerbungen
-5
-D/home/daniel/Documents/PhD_Bewerbungen
-	important
-14
-D/home/daniel/Documents/PhD_Bewerbungen/important
-	MSc_Lists-of-examination_Daniel-Schreyer.pdf
-1
-D/home/daniel/Documents/PhD_Bewerbungen
-	important
-14
-D/home/daniel/Documents/PhD_Bewerbungen/important
-	BSc_List-of-examinations_Daniel_Schreyer.pdf
-1
-D/home/daniel/Documents/PhD_Bewerbungen
-	important
-14
-D/home/daniel/Documents/PhD_Bewerbungen/important
-	CV_Daniel_Schreyer.docx
-2
-D/home/daniel/Documents/PhD_Bewerbungen
-	important
-14
-D/home/daniel/Documents/PhD_Bewerbungen/important
-	MSc_Lists-of-examination_Daniel-Schreyer.pdf
-3
-D/home/daniel/Documents/PhD_Bewerbungen
-	important
-14
-D/home/daniel/Documents/PhD_Bewerbungen/important
-	MSc_List-of-examination_Daniel-Schreyer.pdf
-3
-D/home/daniel/Documents/PhD_Bewerbungen
-	Lyko_DKFZ
-8
-D/home/daniel/Documents/PhD_Bewerbungen/Lyko_DKFZ
-	Daniel-Schreyer.pdf
-3
-D/home/daniel/Documents/PhD_Bewerbungen
-	important
-14
-D/home/daniel/Documents/PhD_Bewerbungen/important
-	MSc_Certificate.pdf
-7
-D/home/daniel/Documents/PhD_Bewerbungen
-	Bailey_Glasgow
-1
-D/home/daniel/Documents/PhD_Bewerbungen/Bailey_Glasgow
-	Finances_PhD_application.png
-4
-D/home/daniel/Documents/PhD_Bewerbungen
-	Bailey_Glasgow
-1
-D/home/daniel/Documents/PhD_Bewerbungen/Bailey_Glasgow
-	Referees.odt
-5
-D/home/daniel/Documents/PhD_Bewerbungen
-	important
-14
-D/home/daniel/Documents/PhD_Bewerbungen/important
-	CV-Europass-Schreyer.pdf
-5
-D/home/daniel/Documents/PhD_Bewerbungen
-	Bailey_Glasgow
-1
-D/home/daniel/Documents/PhD_Bewerbungen/Bailey_Glasgow
-	Cover-Letter-Daniel-Schreyer.pdf
-2
-D/home/daniel/Documents/PhD_Bewerbungen
-	important
-14
-D/home/daniel/Documents/PhD_Bewerbungen/important
-	CV_Daniel_Schreyer.docx
-6
-D/home/daniel/Documents/PhD_Bewerbungen
-	Bailey_Glasgow
-1
-D/home/daniel/Documents/PhD_Bewerbungen/Bailey_Glasgow
-	Finances_PhD_application.png
-4
-D/home/daniel/Documents/PhD_Bewerbungen
-	important
-14
-D/home/daniel/Documents/PhD_Bewerbungen/important
-	Leila_Taher_Reference.odt
-7
-D/home/daniel/Documents/PhD_Bewerbungen
-	important
-14
-D/home/daniel/Documents/PhD_Bewerbungen/important
-	CV_Daniel_Schreyer.docx
-6
-D/home/daniel/Documents/PhD_Bewerbungen
-	important
-14
-D/home/daniel/Documents
-	Project_1
-7
-D/home/daniel/Documents/Project_1
-	images
-1
-D/home/daniel/Documents/Project_1/images
-	DS_Bodensee.jpg
-1
-D/home/daniel/Documents/Project_1
-	images
-1
-D/home/daniel/Documents
-	PhD_Bewerbungen
-5
 D/home/daniel/Documents/PhD_Bewerbungen
 	BSc_List-of-examinations_Daniel_Schreyer.pdf
 15
@@ -627,8 +435,200 @@ D/home/daniel/Documents/PhD
 	Paper
 1
 D/home/daniel/Documents
+	PhD
+4
+D/home/daniel/Documents/PhD
+	Paper
+1
+D/home/daniel/Documents
+	PhD
+4
+D/home/daniel
+	PhD
+5
+D/home/daniel/PhD
 	..
 0
+D/home/daniel
+	Documents
+2
+D/home/daniel/Documents
+	PhD
+4
+D/home/daniel/Documents/PhD
+	Paper
+1
+D/home/daniel/Documents/PhD/Paper
+	..
+0
+D/home/daniel/Documents/PhD
+	Paper
+1
+D/home/daniel/Documents/PhD/Paper
+	..
+0
+D/home/daniel/Documents/PhD
+	Paper
+1
+D/home/daniel/Documents
+	PhD
+4
+D/home/daniel
+	PhD
+5
+D/home/daniel/PhD
+	Paper
+1
+D/home/daniel/PhD/Paper
+	PDAC
+1
+D/home/daniel/PhD
+	Preparation
+2
+D/home/daniel/PhD/Preparation
+	..
+0
+D/home/daniel/PhD
+	Preparation
+2
+D/home/daniel
+	PhD
+5
+D/home
+	daniel
+1
+D/home/daniel
+	Documents
+2
+D/home/daniel/Documents
+	PhD
+4
+D/home/daniel/Documents/PhD
+	Paper
+1
+D/home/daniel/Documents/PhD/Paper
+	..
+0
+D/home/daniel/Documents/PhD
+	Notebook-setup.html
+3
+D/home/daniel/Documents
+	PhD_Bewerbungen
+4
+D/home/daniel
+	PhD
+5
+D/home/daniel/PhD
+	PRECODE
+1
+D/home/daniel/PhD/PRECODE
+	doc
+1
+D/home/daniel/PhD/PRECODE/doc
+	ITN 2019_PRECODE_B1_15012019_final.pdf
+1
+D/home/daniel/PhD/PRECODE
+	doc
+1
+D/home/daniel/PhD
+	PRECODE
+1
+D/home/daniel
+	Documents
+2
+D/home/daniel/Documents
+	PhD_Bewerbungen
+4
+D/home/daniel/Documents/PhD_Bewerbungen
+	BSc_List-of-examinations_Daniel_Schreyer.pdf
+15
+D/home/daniel/Documents
+	PhD_Bewerbungen
+4
+D/home/daniel/Documents/PhD_Bewerbungen
+	BSc_List-of-examinations_Daniel_Schreyer.pdf
+15
+D/home/daniel/Documents
+	PhD_Bewerbungen
+4
+D/home/daniel/Documents/PhD_Bewerbungen
+	important
+14
+D/home/daniel/Documents/PhD_Bewerbungen/important
+	MSC_Final-academic-record.pdf
+9
+D/home/daniel/Documents/PhD_Bewerbungen
+	important
+14
+D/home/daniel/Documents
+	Project_1
+6
+D/home/daniel
+	PhD
+5
+D/home/daniel/PhD
+	Paper
+2
+D/home/daniel/PhD/Paper
+	Collisson_et_al-2019-Nature_Reviews_Gastroenterology_&_Hepatology.pdf
+2
+D/home/daniel/PhD
+	Paper
+2
+D/home/daniel
+	src
+12
+D/home/daniel/src
+	i3lock-fancy
+5
+D/home/daniel/src/i3lock-fancy
+	icons
+2
+D/home/daniel/src/i3lock-fancy/icons
+	circlelockcleardark.png
+3
+D/home/daniel/src/i3lock-fancy
+	i3lock-fancy
+7
+D/home/daniel/src
+	i3lock-fancy
+5
+D/home/daniel
+	Downloads
+3
+D/home/daniel/Downloads
+	inkscape-dark
+3
+D/home/daniel/Downloads/inkscape-dark
+	assets
+1
+D/home/daniel/Downloads
+	inkscape-dark
+3
+D/home/daniel
+	Downloads
+3
+D/home
+	daniel
+1
+D/
+	usr
+21
+D/usr
+	share
+11
+D/usr/share
+	themes
+45
+D/usr/share/themes
+	Default
+3
+D/usr/share/themes/Default
+	gtk-2.0-key
+1
+D/usr/share/themes/Default/gtk-2.0-key
+	gtkrc_old
+2
 D
 
 # Command line history (oldest to newest):
@@ -658,9 +658,11 @@ D
 :cd
 :mkdir images
 :code
-:sh
 :mkdir profile
 :mkdir P
+:mkdir PRECODE
+:mkdir doc
+:sh
 
 # Search history (oldest to newest):
 /.config
@@ -675,6 +677,8 @@ D
 /icons
 /info
 /warning
+/Def
+/theme
 
 # Prompt history (oldest to newest):
 pLyko_DKFZ
@@ -688,7 +692,9 @@ pSchreyer-Daniel-05032020_high-quality.jpg
 # Local filter history (oldest to newest):
 
 # Registers:
-""/home/daniel/Documents/PhD/Paper
+""/home/daniel/Downloads/inkscape-dark/assets
+""/home/daniel/Downloads/inkscape-dark/menubar
+""/home/daniel/Downloads/inkscape-dark/main.rc
 
 # Directory stack (oldest to newest):
 
@@ -783,6 +789,8 @@ t/home/daniel/.local/share/vifm/Trash/000_sophos-av
 	/home/daniel/Downloads/sophos-av
 t/home/daniel/.local/share/vifm/Trash/000_inkscape_Logo.png
 	/home/daniel/Documents/Bootstrap_Website/assets/img/portfolio/contact/inkscape_Logo.png
+t/home/daniel/.local/share/vifm/Trash/000_PhD
+	/home/daniel/Documents/PhD
 
 # State:
 f
