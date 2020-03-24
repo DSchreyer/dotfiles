@@ -329,57 +329,6 @@ d/home/daniel/Documents
 d
 
 # Right window history (oldest to newest):
-D/home/daniel/Documents/PhD_Bewerbungen
-	BSc_List-of-examinations_Daniel_Schreyer.pdf
-15
-D/home/daniel/Documents
-	Bootstrap_Website
-1
-D/home/daniel/Documents/Bootstrap_Website
-	assets
-1
-D/home/daniel/Documents/Bootstrap_Website/assets
-	img
-1
-D/home/daniel/Documents/Bootstrap_Website/assets/img
-	portfolio
-1
-D/home/daniel/Documents/Bootstrap_Website/assets/img/portfolio
-	..
-0
-D/home/daniel/Documents/Bootstrap_Website/assets/img
-	portfolio
-1
-D/home/daniel/Documents/Bootstrap_Website/assets/img/portfolio
-	contact
-1
-D/home/daniel/Documents/Bootstrap_Website/assets/img/portfolio/contact
-	..
-0
-D/home/daniel/Documents/Bootstrap_Website/assets/img/portfolio
-	contact
-1
-D/home/daniel/Documents/Bootstrap_Website/assets/img
-	portfolio
-1
-D/home/daniel/Documents/Bootstrap_Website/assets/img/portfolio
-	contact
-1
-D/home/daniel/Documents/Bootstrap_Website/assets/img/portfolio/contact
-	inkscape_Logo.png
-1
-D/home/daniel/Documents/Bootstrap_Website/assets/img/portfolio
-	contact
-1
-D/home/daniel/Documents/Bootstrap_Website/assets/img/portfolio/contact
-	Git_Logo.png
-1
-D/home/daniel/Documents/Bootstrap_Website/assets/img/portfolio
-	contact
-1
-D/home/daniel/Documents/Bootstrap_Website/assets/img/portfolio/contact
-	linkedin_Logo.png
-4
 D/home/daniel/Documents/Bootstrap_Website/assets/img/portfolio
 	contact
 1
@@ -627,8 +576,59 @@ D/usr/share/themes/Default
 	gtk-2.0-key
 1
 D/usr/share/themes/Default/gtk-2.0-key
-	gtkrc_old
+	gtkrc
+3
+D/usr/share/themes/Default
+	gtk-2.0-key
+1
+D/usr/share/themes
+	Default
+5
+D/usr/share
+	themes
+45
+D/usr/share/themes
+	Default
+5
+D/usr/share
+	themes
+45
+D/usr
+	share
+11
+D/
+	usr
+21
+D/home/daniel
+	Documents
 2
+D/home/daniel/Documents
+	Project_1
+6
+D/home/daniel
+	PhD
+5
+D/home/daniel/PhD
+	Paper
+2
+D/home/daniel/PhD/Paper
+	PDAC
+1
+D/home/daniel/PhD/Paper/PDAC
+	PDAC_subtypes_14_2_2019_submitted.pdf
+1
+D/home/daniel/PhD/Paper
+	PDAC
+1
+D/home/daniel/PhD
+	PRECODE
+1
+D/home/daniel/PhD/PRECODE
+	doc
+1
+D/home/daniel/PhD/PRECODE/doc
+	ITN 2019_PRECODE_B1_15012019_final.pdf
+1
 D
 
 # Command line history (oldest to newest):
@@ -655,7 +655,6 @@ D
 :nmap
 :convert
 :mkdir img
-:cd
 :mkdir images
 :code
 :mkdir profile
@@ -663,6 +662,7 @@ D
 :mkdir PRECODE
 :mkdir doc
 :sh
+:cd
 
 # Search history (oldest to newest):
 /.config

@@ -116,7 +116,7 @@ set $ws3 "3: "
 set $ws4 "4: "
 set $ws5 "5: "
 set $ws6 "6: "
-set $ws7 "7"
+set $ws7 "7: "
 set $ws8 "8"
 set $ws9 "9: "
 set $ws10 "10"
@@ -128,7 +128,7 @@ bindsym $mod+3 workspace "3: "
 bindsym $mod+4 workspace "4: "
 bindsym $mod+5 workspace "5: "
 bindsym $mod+6 workspace "6: "
-bindsym $mod+7 workspace 7
+bindsym $mod+7 workspace "7: "
 bindsym $mod+8 workspace 8
 bindsym $mod+9 workspace "9: "
 bindsym $mod+0 workspace "10"
@@ -213,7 +213,7 @@ bar {
 #new_window 1pixel
 for_window [class="^.*"] border pixel 5
 # class                 border  backgr. text    indicator
-client.focused          #556064 #556064 #80FFF9 #FDF6E3
+client.focused          #5FAF5F #5FAF5F #80FFF9 #FDF6E3
 client.focused_inactive #2F3D44 #2F3D44 #AD69AF #454948
 client.unfocused        #2F3D44 #2F3D44 #AD69AF #454948
 client.urgent           #CB4B16 #FDF6E3 #AD69AF #268BD2
