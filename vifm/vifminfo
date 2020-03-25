@@ -329,69 +329,6 @@ d/home/daniel/Documents
 d
 
 # Right window history (oldest to newest):
-D/home/daniel/Documents/Bootstrap_Website/assets/img/portfolio
-	contact
-1
-D/home/daniel/Documents/Bootstrap_Website/assets/img
-	portfolio
-1
-D/home/daniel/Documents/Bootstrap_Website/assets
-	img
-1
-D/home/daniel/Documents/Bootstrap_Website
-	assets
-1
-D/home/daniel/Documents
-	Project_1
-8
-D/home/daniel/Documents/Project_1
-	style.css
-5
-D/home/daniel/Documents
-	Project_1
-8
-D/home/daniel
-	Documents
-2
-D/home/daniel/Documents
-	Project_1
-8
-D/home/daniel/Documents/Project_1
-	style.css
-5
-D/home/daniel/Documents
-	Project_1
-8
-D/home/daniel
-	Documents
-2
-D/home/daniel/Documents
-	Project_1
-8
-D/home/daniel/Documents/Project_1
-	images
-2
-D/home/daniel/Documents/Project_1/images
-	DS_Bodensee.jpg
-1
-D/home/daniel/Documents/Project_1
-	style.css
-5
-D/home/daniel/Documents
-	PhD
-4
-D/home/daniel/Documents/PhD
-	Paper
-1
-D/home/daniel/Documents
-	PhD
-4
-D/home/daniel/Documents/PhD
-	Paper
-1
-D/home/daniel/Documents
-	PhD
-4
 D/home/daniel
 	PhD
 5
@@ -629,6 +566,69 @@ D/home/daniel/PhD/PRECODE
 D/home/daniel/PhD/PRECODE/doc
 	ITN 2019_PRECODE_B1_15012019_final.pdf
 1
+D/home/daniel/PhD/PRECODE
+	doc
+1
+D/home/daniel/PhD
+	Preparation
+3
+D/home/daniel/PhD/Preparation
+	pictures
+1
+D/home/daniel/PhD/Preparation/pictures
+	journal.pcbi.1000424.g001.png
+1
+D/home/daniel/PhD/Preparation
+	pictures
+1
+D/home/daniel/PhD
+	University
+4
+D/home/daniel/PhD/University
+	..
+0
+D/home/daniel/PhD
+	University
+4
+D/home/daniel/PhD/University
+	biometric-picture.pdf
+1
+D/home/daniel/PhD
+	University
+4
+D/home/daniel
+	Pictures
+6
+D/home/daniel/Pictures
+	biometric-pic.png
+24
+D/home/daniel
+	Downloads
+3
+D/home/daniel/Downloads
+	inkscape-dark
+3
+D/home/daniel
+	Documents
+2
+D/home/daniel/Documents
+	PhD_Bewerbungen
+4
+D/home/daniel/Documents/PhD_Bewerbungen
+	Vincendeau_Helmholtz_Munich
+12
+D/home/daniel/Documents
+	PhD_Bewerbungen
+4
+D/home/daniel
+	PhD
+5
+D/home/daniel/PhD
+	University
+4
+D/home/daniel/PhD/University
+	DS-photo-passport-format.png
+2
 D
 
 # Command line history (oldest to newest):
@@ -661,8 +661,10 @@ D
 :mkdir P
 :mkdir PRECODE
 :mkdir doc
-:sh
 :cd
+:University
+:mkdir University
+:sh
 
 # Search history (oldest to newest):
 /.config
@@ -688,13 +690,12 @@ pCV-Europass-Schreyer.pdf
 pSchreyer-Daniel-05032020_modified.jpg
 pSchreyer-Daniel-05032020.jpg
 pSchreyer-Daniel-05032020_high-quality.jpg
+pDS-photo-passport-format.png
 
 # Local filter history (oldest to newest):
 
 # Registers:
-""/home/daniel/Downloads/inkscape-dark/assets
-""/home/daniel/Downloads/inkscape-dark/menubar
-""/home/daniel/Downloads/inkscape-dark/main.rc
+""/home/daniel/Pictures/biometric-pic.png
 
 # Directory stack (oldest to newest):
 
