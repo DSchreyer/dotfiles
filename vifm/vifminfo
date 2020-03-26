@@ -17,7 +17,7 @@
 # Bookmarks:
 
 # TUI:
-ar
+al
 q0
 v2
 ov
@@ -26,24 +26,6 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/home/daniel/Documents/Sonstiges
-	Bewerbungsbilder
-1
-d/home/daniel/Documents/Sonstiges/Bewerbungsbilder
-	Schreyer,Daniel,5-3-20.jpg
-1
-d/home/daniel/Documents/Sonstiges
-	Bewerbungsbilder
-1
-d/home/daniel/Documents
-	Sonstiges
-10
-d/home/daniel
-	Documents
-2
-d/home
-	daniel
-1
 d/
 	usr
 16
@@ -324,14 +306,29 @@ d/home/daniel/Documents/Masterarbeit
 	Masterarbeit BackUp
 8
 d/home/daniel/Documents
-	Masterarbeit
+	PhD_Bewerbungen
+4
+d/home/daniel
+	Downloads
+3
+d/home/daniel/Downloads
+	inkscape-dark
+3
+d/home/daniel/Downloads/inkscape-dark
+	..
+0
+d/home/daniel/Downloads
+	__MACOSX
+1
+d/home/daniel/Downloads/__MACOSX
+	..
+0
+d/home/daniel/Downloads
+	Reisekostenabrechnung_IGEM_Dani.pdf
 3
 d
 
 # Right window history (oldest to newest):
-D/home/daniel
-	PhD
-5
 D/home/daniel/PhD
 	..
 0
@@ -629,6 +626,9 @@ D/home/daniel/PhD
 D/home/daniel/PhD/University
 	DS-photo-passport-format.png
 2
+D/home/daniel/PhD
+	University
+4
 D
 
 # Command line history (oldest to newest):
@@ -695,7 +695,7 @@ pDS-photo-passport-format.png
 # Local filter history (oldest to newest):
 
 # Registers:
-""/home/daniel/Pictures/biometric-pic.png
+""/home/daniel/.local/share/vifm/Trash/000___MACOSX
 
 # Directory stack (oldest to newest):
 
@@ -792,6 +792,72 @@ t/home/daniel/.local/share/vifm/Trash/000_inkscape_Logo.png
 	/home/daniel/Documents/Bootstrap_Website/assets/img/portfolio/contact/inkscape_Logo.png
 t/home/daniel/.local/share/vifm/Trash/000_PhD
 	/home/daniel/Documents/PhD
+t/home/daniel/.local/share/vifm/Trash/000_CV-ESP-Europass-20200303-Schreyer-EN.pdf
+	/home/daniel/Downloads/CV-ESP-Europass-20200303-Schreyer-EN.pdf
+t/home/daniel/.local/share/vifm/Trash/000_Daniel_Schreyer_Inquiry.pdf
+	/home/daniel/Downloads/Daniel_Schreyer_Inquiry.pdf
+t/home/daniel/.local/share/vifm/Trash/000_Dark-Olympic.zip
+	/home/daniel/Downloads/Dark-Olympic.zip
+t/home/daniel/.local/share/vifm/Trash/000_ITN 2019_PRECODE_B1_15012019_final.pdf
+	/home/daniel/Downloads/ITN 2019_PRECODE_B1_15012019_final.pdf
+t/home/daniel/.local/share/vifm/Trash/001_MSc_Lists-of-examination_Daniel-Schreyer.pdf
+	/home/daniel/Downloads/MSc_Lists-of-examination_Daniel-Schreyer.pdf
+t/home/daniel/.local/share/vifm/Trash/000_PyQt5_gpl-5.11.3.zip
+	/home/daniel/Downloads/PyQt5_gpl-5.11.3.zip
+t/home/daniel/.local/share/vifm/Trash/000_Test.zip
+	/home/daniel/Downloads/Test.zip
+t/home/daniel/.local/share/vifm/Trash/000_Website_Logos.svg
+	/home/daniel/Downloads/Website_Logos.svg
+t/home/daniel/.local/share/vifm/Trash/000_WhatsApp Image 2020-03-02 at 10.11.44.jpeg
+	/home/daniel/Downloads/WhatsApp Image 2020-03-02 at 10.11.44.jpeg
+t/home/daniel/.local/share/vifm/Trash/000_anyconnect-linux64-predeploy-k9.tar
+	/home/daniel/Downloads/anyconnect-linux64-predeploy-k9.tar
+t/home/daniel/.local/share/vifm/Trash/000_anyconnect-linux64-predeploy-k9.tar.gz
+	/home/daniel/Downloads/anyconnect-linux64-predeploy-k9.tar.gz
+t/home/daniel/.local/share/vifm/Trash/000_code_1.42.1-1581432938_amd64.deb
+	/home/daniel/Downloads/code_1.42.1-1581432938_amd64.deb
+t/home/daniel/.local/share/vifm/Trash/000_darkink.tar.gz
+	/home/daniel/Downloads/darkink.tar.gz
+t/home/daniel/.local/share/vifm/Trash/000_file-icons.woff2
+	/home/daniel/Downloads/file-icons.woff2
+t/home/daniel/.local/share/vifm/Trash/000_gdk-pixbuf-2.40.0.tar.xz
+	/home/daniel/Downloads/gdk-pixbuf-2.40.0.tar.xz
+t/home/daniel/.local/share/vifm/Trash/000_git-seeklogo.com.eps
+	/home/daniel/Downloads/git-seeklogo.com.eps
+t/home/daniel/.local/share/vifm/Trash/000_git-vector-logo-B91BDEB152-seeklogo.com.zip
+	/home/daniel/Downloads/git-vector-logo-B91BDEB152-seeklogo.com.zip
+t/home/daniel/.local/share/vifm/Trash/000_gtk+-3.24.13.tar.xz
+	/home/daniel/Downloads/gtk+-3.24.13.tar.xz
+t/home/daniel/.local/share/vifm/Trash/000_inkscape-dark.tar
+	/home/daniel/Downloads/inkscape-dark.tar
+t/home/daniel/.local/share/vifm/Trash/000_inkscape-dark.tar.gz
+	/home/daniel/Downloads/inkscape-dark.tar.gz
+t/home/daniel/.local/share/vifm/Trash/000_journal.pcbi.1000424.g001 (1).png
+	/home/daniel/Downloads/journal.pcbi.1000424.g001 (1).png
+t/home/daniel/.local/share/vifm/Trash/000_journal.pcbi.1000424.g001.png
+	/home/daniel/Downloads/journal.pcbi.1000424.g001.png
+t/home/daniel/.local/share/vifm/Trash/000_linkedin-in-icon-vector-logo-791FF16AEA-seeklogo.com.zip
+	/home/daniel/Downloads/linkedin-in-icon-vector-logo-791FF16AEA-seeklogo.com.zip
+t/home/daniel/.local/share/vifm/Trash/000_mail-envelope-symbol-vector-logo-6ABC4EF23E-seeklogo.com.zip
+	/home/daniel/Downloads/mail-envelope-symbol-vector-logo-6ABC4EF23E-seeklogo.com.zip
+t/home/daniel/.local/share/vifm/Trash/000_mail-envelope-vector-symbol-seeklogo.com.eps
+	/home/daniel/Downloads/mail-envelope-vector-symbol-seeklogo.com.eps
+t/home/daniel/.local/share/vifm/Trash/000_main.tex
+	/home/daniel/Downloads/main.tex
+t/home/daniel/.local/share/vifm/Trash/000_rstudio-xenial-1.1.419-amd64.deb
+	/home/daniel/Downloads/rstudio-xenial-1.1.419-amd64.deb
+t/home/daniel/.local/share/vifm/Trash/000_sav-linux-free-9.tgz
+	/home/daniel/Downloads/sav-linux-free-9.tgz
+t/home/daniel/.local/share/vifm/Trash/000_sav-linux-free-9.zip
+	/home/daniel/Downloads/sav-linux-free-9.zip
+t/home/daniel/.local/share/vifm/Trash/000_startbootstrap-creative-gh-pages.zip
+	/home/daniel/Downloads/startbootstrap-creative-gh-pages.zip
+t/home/daniel/.local/share/vifm/Trash/000_inkscape-dark
+	/home/daniel/Downloads/inkscape-dark
+t/home/daniel/.local/share/vifm/Trash/000_anyconnect-linux64-4.8.01090
+	/home/daniel/Downloads/anyconnect-linux64-4.8.01090
+t/home/daniel/.local/share/vifm/Trash/000___MACOSX
+	/home/daniel/Downloads/__MACOSX
 
 # State:
 f
