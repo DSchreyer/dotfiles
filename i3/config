@@ -303,6 +303,8 @@ smart_borders on
 assign [class="thunderbird"] 5: 
 assign [class="Slack"] 6: 
 assign [class="whatsdesk"] 6: 
+assign [class="Zotero"] 7: 
+assign [class="nixnote2"] 3: 
 # Start applications with i3 login
 #exec --no-startup-id i3-msg 'workspace "2: Terminals"; exec terminator; exec terminator
 
@@ -312,6 +314,8 @@ exec --no-startup-id i3-msg 'workspace 1: ; exec google-chrome'
 # exec --no-startup-id i3-msg 'workspace 4: Social; exec thunderbird; exec slack' 
 exec --no-startup-id slack
 exec --no-startup-id thunderbird
+exec --no-startup-id zotero-snap
+exec --no-startup-id nixnote2
 
 # Start redshift for night day screen blue filter
 exec --no-startup-id redshift
