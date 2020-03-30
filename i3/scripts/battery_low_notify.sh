@@ -9,4 +9,5 @@ do
         sleep 600
     fi
     sleep 120
+    battery_level=`acpi -b | grep -P -o '[0-9]+(?=%)'`
 done

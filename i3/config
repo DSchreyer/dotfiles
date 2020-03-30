@@ -316,7 +316,6 @@ exec --no-startup-id slack
 exec --no-startup-id thunderbird
 exec --no-startup-id zotero-snap
 exec --no-startup-id nixnote2
-exec --no-startup-id /home/daniel/.config/i3/scripts/two_monitors.sh
 
 # Start redshift for night day screen blue filter
 exec --no-startup-id redshift
@@ -326,3 +325,4 @@ exec_always xautolock -time 15 -locker "/home/daniel/src/i3lock-color/lock_bar.s
 
 bindsym $mod+Shift+End exec /home/daniel/src/i3lock-color/lock_bar.sh
 
+exec --no-startup-id /home/daniel/.config/i3/scripts/two_monitors.sh
