@@ -243,15 +243,15 @@ exec --no-startup-id compton
 
 
 # Download top wallpaper from reddit
-exec "/home/daniel/Documents/Python_Scripts/change_wallpaper/get_reddit_wallpaper.py --category 'top,hot,rising' --directory /home/daniel/Documents/Python_Scripts/change_wallpaper/wallpapers/"
+# exec "/home/daniel/Documents/Python_Scripts/change_wallpaper/get_reddit_wallpaper.py --category 'top,hot,rising' --directory /home/daniel/Documents/Python_Scripts/change_wallpaper/wallpapers/"
 # Change wallpaper every 60 minutes
-exec "/home/daniel/Documents/Python_Scripts/change_wallpaper/random_wallpaper.py --interval 30 --directory /home/daniel/Documents/Python_Scripts/change_wallpaper/wallpapers/"
+# exec "/home/daniel/Documents/Python_Scripts/change_wallpaper/random_wallpaper.py --interval 30 --directory /home/daniel/Documents/Python_Scripts/change_wallpaper/wallpapers/"
 
 # Notify if battery is runnning low
 exec "/home/daniel/.config/i3/scripts/battery_low_notify.sh"
 
 # change wallpaper with bindsym
-bindsym $mod+Shift+w exec "/home/daniel/Documents/Python_Scripts/change_wallpaper/random_wallpaper.py --directory /home/daniel/Documents/Python_Scripts/change_wallpaper/wallpapers/"
+# bindsym $mod+Shift+w exec "/home/daniel/Documents/Python_Scripts/change_wallpaper/random_wallpaper.py --directory /home/daniel/Documents/Python_Scripts/change_wallpaper/wallpapers/"
 
 
 # move floating windows with keys
@@ -291,8 +291,13 @@ exec pkill -RTMIN+10 i3blocks
 # Mod 1 = Alt
 bindsym Mod1+Tab workspace back_and_forth
 
-# Set wallpaper with feh
-bindsym $mod+a exec rofi -show run -lines 20 -eh 1.3 -opacity "85" -bw 0 -font "Ubuntu Mono 14"
+# rofi
+bindsym $mod+a exec rofi -no-lazy-grab -show drun -theme /home/daniel/.config/rofi/launchers-git/kde_krunner_modified.rasi
+
+# bindsym $mod+a exec rofi -no-lazy-grab -show drun -theme /home/daniel/.config/rofi/launchers-git/row_dropdown.rasi -font "Ubuntu Mono 14"
+
+# exec rofi -show run -lines 20 -eh 1.3 -opacity "85" -bw 0 -font "Ubuntu Mono 14"
+
 bindsym $mod+Shift+s exec rofi -show ssh -font "Ubuntu Mono 14"
 
 # smart_borders: Draw only borders when its not the only window
@@ -316,9 +321,13 @@ exec --no-startup-id slack
 exec --no-startup-id thunderbird
 exec --no-startup-id zotero-snap
 exec --no-startup-id nixnote2
+# exec --no-startup-id i3-msg 'workspace 4: , exec vifm'
 
 # Start redshift for night day screen blue filter
 exec --no-startup-id redshift
+
+# Set wallpaper with feh
+exec --no-startup-id feh --bg-scale /home/daniel/Documents/Python_Scripts/change_wallpaper/wallpapers/Gears\ and\ Pinions\ \[3840\ x\ 2160\].jpg
 
 # autolock screen after 10 minutes inactivity
 exec_always xautolock -time 15 -locker "/home/daniel/src/i3lock-color/lock_bar.sh" -notify 15 -notifier "notify-send -u critical -t 5000 'Lock screen in 15 seconds'"
