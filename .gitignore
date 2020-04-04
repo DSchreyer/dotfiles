@@ -1,5 +1,5 @@
 autostart
-vifm
+vifm/vifminfo
 Code
 dconf
 Dharkael
@@ -34,3 +34,6 @@ user-dirs.locale
 gtk-2.0
 Trello
 nixnote2
+evince
+Microsoft
+teams
